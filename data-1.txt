@@ -3,4 +3,8 @@ Krishna
 Govind
 Arjun
 Suyodhan
+<<<<<<< HEAD
 Karna---
+=======
+Karna
+>>>>>>> parent of 7ee86e9...  commented v-beta...
